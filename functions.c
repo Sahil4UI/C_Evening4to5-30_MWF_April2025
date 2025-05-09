@@ -1,55 +1,21 @@
 
-#include <stdio.h>
-// function definition
-// default function
+C Online Compiler
 
-// void f1(){
-//     printf("f1 called.....");
-// }
+AD
 
-// parameterized function
-// void f1(int x,int y){
-//     printf("%d",x+y);
-// }
-
-// function with return statement
-// int f1(int x,int y){
-//     return x+y;
-// }
+Programiz PRO ❯
+main.c
 
 
-// Recursive function
-// when a function calls itself again and again that function is called recursive function
-
-// int f1(int x){
-//     if (x>5)
-//     {
-//         return 0;
-//     }
-//     printf("%d\n",x);
-//     f1(x+1);
-// }
-
-// int main() {
-   
-//     // Function Calling
-// //   int res =  f1(45,89);
-// //     printf("%d",res);
 
 
-//     f1(1);
-//     return 0;
-// }
-int f1(int x){
-    if (x<1)
-    {
-        return 0;
-    }
-    printf("%d\n",x);
-    f1(x+1);
-}
+ Run 
+    printf("%d",f1(2,4));
 
-int main() {
-    f1(1);
-    return 0;
-}
+
+ 
+Output
+ Clear 
+=== Code Execution Successful ===
+
+
